@@ -12,7 +12,10 @@ print(f'Diferença entre 1 e 2: {conjunto_diferenca}')
 conjunto_diferenca2 = conjunto2.difference(conjunto)
 print(f'Diferença entre 2 e 1: {conjunto_diferenca2}')
  # Diferença entre 2 e 1: {8, 6, 7}
+conjunto_diff_simetrica = conjunto.symmetric_difference(conjunto2)
+print(f'Diferença simétrica: {conjunto_diff_simetrica}')
+# Diferença simétrica: {1, 2, 3, 4, 6, 7, 8}
 
 
-
+# boa noite
 
