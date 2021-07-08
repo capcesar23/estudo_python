@@ -35,4 +35,4 @@ def ler_arquivo(nome_arquivo):
 if __name__ == '__main__':
     # escrever_arquivo('Primeiralinha.\n')
     # atualizar_arquivo('Terceira linha\n')
-    ler_arquivo('teste.txt')
+    ler_arquivo('/home/cesar/python/projetos/dio/fundamentos_python/teste.txt')
